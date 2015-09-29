@@ -15,6 +15,7 @@ To get started, just do the following:
 2. Preview your new app by clicking on the URL that appears in the Run panel below (https://git-tranning-thuan123.c9.io/).
 3. DAO HONG THUAN - VN 6B
 4. DA TAO TASK-2
+5. ADADA
 Happy coding!
 The Cloud9 IDE team
 
