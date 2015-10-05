@@ -19,6 +19,7 @@ To get started, just do the following:
 =======
 3. DAO HONG THUAN - VN 6B
 4. DA TAO TASK-2
+5. Git tranning - Dao Hong Thuan
 Happy coding!
 >>>>>>> ec5add08445bc7422a94420c403b353fd701391d
 The Cloud9 IDE team
